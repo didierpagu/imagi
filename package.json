@@ -1,7 +1,7 @@
 {
-  "name": "react",
+  "name": "react+redux",
   "version": "1.0.0",
-  "description": "Proyecto base",
+  "description": "todo list",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --open",
@@ -12,7 +12,7 @@
     "npm":"6.4.1"
   },
   "keywords": [],
-  "author": "Geordano Polanco (gpolanco.com)",
+  "author": "didierpagu",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "7.1.2",
